@@ -5,7 +5,7 @@ function setup() {
 }
 
 function keyPressed() {
-  if (keyCode === LEFT_ARROW){ // When the user presses the left arrow
+  if (keyCode === LEFT_ARROW) { // When the user presses the left arrow
     fill(0, 0, 255); // in Blue color
     circle(100, 100, 50); // draw a circle at (100, 100) with a diameter of 50
   }   
