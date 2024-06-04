@@ -1,7 +1,7 @@
 function setup() {
   //canvas
-  createCanvas(windowWidth, windowHeight)
-  background(2)
+  createCanvas(windowWidth, windowHeight);
+  background(2);
 }
 
 function draw() {
