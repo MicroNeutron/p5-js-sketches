@@ -3,7 +3,7 @@ function setup() {
 }
 
 function draw() {
-  background(200); 
+  background(2); 
   
   if(keyIsDown(65)) { // When the user presses the 'A' key
     fill(255, 0, 255); // in Purple color
