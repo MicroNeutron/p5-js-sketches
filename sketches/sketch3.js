@@ -17,7 +17,8 @@ function draw() {
   }
   if(mouseIsPressed) { // When the user clicks the mouse
     fill(255);
-    troangle(mouseX, mouseY + 57.3, mouseX - 50, mouseY - 28.9, mouseX + 50， mouseY - 28.9); //draw a triangle centered at the mouse position with verticesforming an equilateral triangle of side length 100
+    troangle(mouseX, mouseY + 57.3, mouseX - 50, mouseY - 28.9, mouseX + 50， mouseY - 28.9); 
+    //draw a triangle centered at the mouse position with verticesforming an equilateral triangle of side length 100
   }
 }
 
