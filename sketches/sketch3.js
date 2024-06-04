@@ -22,8 +22,8 @@ function draw() {
 /*
 the centre of an equilateral triangle is at 2/3 place of any of its median. 
 Given that the side length of the equilateral triangle is 100, and the base median is equal to the base side length, 
-according to the Pythagorean theorem, the median length is equal to the square root of 100^ 2-50 ^2, which is about 86.6. 
-The mouse is positioned approximately 57.3 points below its top vertex. 
+according to the Pythagorean theorem, the median length is equal to the square root of 100^2 - 50^2, which is approximately 86.6. 
+The mouse is positioned 57.3 points below its top vertex. 
 The vertical coordinates of the other two vertices are 28.9 below the mouse, 
 and the horizontal coordinates are +50 and -50 of the mouse coordinates respectively. 
 */
