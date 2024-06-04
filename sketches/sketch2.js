@@ -11,7 +11,7 @@ function draw(){
 }
 
 function keyReleased(){ // When the user releases any key
-    noFill(); 
+    fill(255); 
     ellipse(mouseX, mouseY, 50, 75); // draw an ellipse at the mouse position with a width of 50 andheight of 75
 }
 
